@@ -7,8 +7,8 @@ select * from airbnb2;
 
 #q1 import data from both the .csv files to create tables, listings and booking details.
 show tables;
-select * from listing 2;
-select * from booking_details 1;
+select * from airbnb1;
+select * from airbnb2;
 
 #q2 write a query to show names from airbnb2 table
 select name from airbnb2;
