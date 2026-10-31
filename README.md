@@ -48,4 +48,8 @@ calculated_host_listings_count: The number of listings that the host has on Airb
 
 availability_365: The number of days that the listing is available for booking throughout the year.
 
+Author : Falguni Mehta
+
+this project is part of my portfolio ,showing the SQL skills essential for data analyst roles
+
 
